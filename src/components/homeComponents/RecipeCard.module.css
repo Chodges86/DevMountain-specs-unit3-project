@@ -1,0 +1,34 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-inline: 15px;
+    box-shadow: 1px 5px 5px #a9a9a9;
+    border-radius: 5px;
+}
+
+.card img {
+    height: 15rem;
+    width: 15rem;
+    border-radius: 5px;
+}
+
+.info {
+    height: 7rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.info h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info button {
+    background-color: #487071;
+    color: white;
+    margin-bottom: 10px;
+    height: 2rem;
+    border: none;
+}

@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 5rem;
+    height: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e17b38;
+    color: white;
+}
+
+.header button {
+    background-color: transparent;
+    border: none;
+    width: 6rem;
+}
+
+.header button :hover {
+    background-color: #de925f;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}

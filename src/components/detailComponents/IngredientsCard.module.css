@@ -1,0 +1,22 @@
+.card {
+    width: 200px;
+    height: fit-content;
+    border-radius: 3px;
+    box-shadow: 1px 4px 5px rgb(190, 190, 190);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-block: 15px;
+    margin-inline: 50px;
+    margin-top: 20px;
+}
+
+.card h2 {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.card h4 {
+    font-size: 13px;
+    margin-inline: 10px;
+    margin-block: 5px;
+}

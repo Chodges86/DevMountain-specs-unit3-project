@@ -1,0 +1,31 @@
+.adBanner {
+    display: flex;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+}
+
+.adBannerText {
+    width: 40%;
+}
+
+.adBannerText h1{
+    color: #e17b38;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.adBannerText h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+}
+
+.adBannerText button {
+    background-color: #487071;
+    color: white;
+    border: none;
+    height: 1.75rem;
+}
